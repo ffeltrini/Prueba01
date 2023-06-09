@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitPruebas
 {
-    public class PrimerCambio
+    internal class SegundoCambio
     {
-        public int Id { get; set; }
     }
 }
