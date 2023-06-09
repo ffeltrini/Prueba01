@@ -8,6 +8,5 @@ namespace GitPruebas
 {
     public class PrimerCambio
     {
-        public int Id { get; set; }
     }
 }
